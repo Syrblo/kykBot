@@ -29,7 +29,7 @@ def main():
     
     if bugun in mesajlar:
         gonderilecek_mesaj = mesajlar[bugun]
-        telegrama_gonder(f"Günün Yemeği:\n{gonderilecek_mesaj}")
+        telegrama_gonder(f"📅 Günün Yemeği:\n{gonderilecek_mesaj}")
         print(f"Mesaj gönderildi: {bugun}")
     else:
         print(f"Bugün ({bugun}) için planlanmış bir mesaj bulunamadı.")
