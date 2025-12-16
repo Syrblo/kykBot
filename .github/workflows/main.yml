@@ -1,0 +1,32 @@
+name: Günlük Mesaj Botu
+
+on:
+  schedule:
+    # UTC saatiyle çalışır. Türkiye (UTC+3) için hesabı yapmalısın.
+    # Örnek: Türkiye saatiyle 09:00 olması için buraya 06:00 yazmalıyız.
+    # Dakika Saat * * *
+    - cron: '0 9 * * *' 
+  workflow_dispatch: # Manuel tetikleme için (Test etmek istersen)
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Çek (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: |
+          pip install -r requirements.txt
+
+      - name: Botu Çalıştır
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python main.py
