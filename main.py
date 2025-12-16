@@ -10,7 +10,7 @@ CHAT_ID = os.environ.get("CHAT_ID")
 
 # 2. Mesajları dosyadan oku
 def mesajlari_yukle():
-    with open('mesajlar.json', 'r', encoding='utf-8') as f:
+    with open('liste.json', 'r', encoding='utf-8') as f:
         return json.load(f)
 
 # 3. Telegram'a mesaj gönderme fonksiyonu
