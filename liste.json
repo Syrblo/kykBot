@@ -1,10 +1,36 @@
 {
-    "01-01": "Yeni yılın kutlu olsun! Hedeflerini hatırladın mı?",
-    "05-20": "Bugün spor yapmayı unutma.",
-    "12-16": "Salı\nFırında Tavuk + Sotelenmiş Patates (250g) / Ispanak Graten (200g) \nTarhana Çorba (250g) / Anadolu Çorba (250g) \nŞehriye Pilavı (200g) Marul Salata (50g)",
-    "12-17": "BUGÜN NE YİYECEĞİZ??"
-
+"12-01": "Pazartesi\n\nŞinitzel + Patates Tava (200g) / Pırasa Mücveri (200g)\nToyga Çorba (250g) / Ezogelin Çorba (250g)\nŞehriyeli Bulgur Pilavı (200g)\nCacık (150g)",
+"12-02": "Salı\n\nKaşarlı Köfte (200g) / Karnabahar Graten (200g)\nYüksük Çorba (250g) / Mercimek Çorba (250g)\nSalçalı Makarna (200g)\nSütlaç (150g)",
+"12-03": "Çarşamba\n\nHaşlanmış Tavuk (Didilmiş) + Sebze Kızartma (250g)\nMahluta Çorba (250g) / Kremalı Mantar Çorba (250g)\nNohutlu Pirinç Pilavı (150g)\nAyran (170-200 ml)",
+"12-04": "Perşembe\n\nÇökertme Kebabı (250g) / Taze Fasulye (200g)\nÇeşmi Nigar Çorba (250g) / Pirinç Çorba (250g)\nŞehriye Pilavı (150g)\nKıvırcık Salata (50g)",
+"12-05": "Cuma\n\nTavuk Sote (250g) / Zeytinyağlı Patlıcan Yemeği (200g)\nAnadolu Çorba (250g) / Ezogelin Çorba (250g)\nGarnitürlü Yoğurtlu Makarna (200g)\nÇoban Salata (150g)",
+"12-06": "Cumartesi\n\nNohut Yemeği Karışık Kızartma + Yoğurt (200g)\nArabaşı Çorba (250g) / Mercimek Çorba (250g)\nŞehriyeli Pirinç Pilavı (150g)\nCevizli Baklava (100g)",
+"12-07": "Pazar\n\nTavuk Şiş (200g) / Zeytinyağlı Bezelye Yemeği (200g)\nŞehriye Çorba (250g) / Yayla Çorba (250g)\nSalçalı Bulgur Pilavı (200g)\nRus Salatası (100g)",
+"12-08": "Pazartesi\n\nBalaban Kebabı (Tereyağ Soslu) (250g) / İmam Bayıldı (200g)\nKremalı Sebze Çorba (250g) / Mercimek Çorba (250g)\nPirinç Pilavı (150g)\nRevani (100g)",
+"12-09": "Salı\n\nKöri Soslu Tavuk (250g) / Taze Fasulye (200g)\nDüğün Çorba (250g) / Tarhana Çorba (250g)\nSpagetti Napoliten (200g)\nKarışık Salata (100g)",
+"12-10": "Çarşamba\n\nEt Tantuni (Lavaşlı) (250g) / Kabak Kalye (200g)\nDomates Çorba (250g) / Kış Çorba (250g)\nBulgur Pilavı (200g)\nKabak Tatlısı (Tahinli-Cevizli) (150g)",
+"12-11": "Perşembe\n\nTavuk Fajita (250g) / Etsiz Türlü (200g)\nMahluta Çorba (250g) / Yayla Çorba (250g)\nPesto Soslu Makarna (200g)\nAcılı Ezme (100g)",
+"12-12": "Cuma\n\nBarbunya Yemeği (200g) / Fırında Karışık Kızartma (200g)\nMercimek Çorba (250g) / Cennet Çorba (250g)\nMısırlı Pirinç Pilavı (150g)\nEge Salata (150g)",
+"12-13": "Cumartesi\n\nSebzeli Köfte (250g) / Patlıcan/Kabak/Biber Dolma + Yoğurt (200g)\nYayla Çorba (250g) / Yüksük Çorba (250g)\nSalçalı Makarna (200g)\nÇiğköfte (100g)",
+"12-14": "Pazar\n\nÇıtır Tavuk + Rus Salatası (200g) / Zeytinyağlı Kereviz (200g)\nKremalı Mantar Çorba (250g) / Şehriye Çorba (250g)\nDomatesli Bulgur Pilavı (200g)\nBrowni (120g)",
+"12-15": "Pazartesi\n\nÇökertme Kebabı (250g) / Sebzeli Mantar Sote (200g)\nEzogelin Çorba (250g) / İşkembe Çorba (250g)\nŞehriyeli Pirinç Pilavı (150g)\nHaydari (100g)",
+"12-16": "Salı\n\nFırında Tavuk + Sotelenmiş Patates (250g) / Ispanak Graten (200g)\nTarhana Çorba (250g) / Anadolu Çorba (250g)\nŞehriye Pilavı (200g)\nMarul Salata (50g)",
+"12-17": "Çarşamba\n\nHamburger (200g) / Kabak Mücver (200g)\nTutmaç Çorba (250g) / Pirinç Çorba (250g)\nSalçalı Makarna (200g)\nAyran (170-200 ml)",
+"12-18": "Perşembe\n\nTavuk Kalamar + Soğan Mezesi (200g) / Patlıcan Çığırtma (200g)\nMercimek Çorba (250g) / Düğün Çorba (250g)\nNohutlu Pirinç Pilavı (150g)\nCevizli Muhallebi (150g)",
+"12-19": "Cuma\n\nKuşbaşılı Patates Yemeği (250g) / Domates Soslu Sebze Kızartma (200g)\nEzogelin Çorba (250g) / Roka Çorba (250g)\nŞehriyeli Bulgur Pilavı (200g)\nÇoban Salata (150g)",
+"12-20": "Cumartesi\n\nBeşamel Soslu Tavuk + Köz Domates/Biber (250g) / Lahana Sarma (200g)\nÇeşmi Nigar Çorba (250g) / Tarhana Çorba (250g)\nSalçalı Spagetti (200g)\nŞakşuka (100g)",
+"12-21": "Pazar\n\nKuru Fasulye Yemeği (200g) / Karışık Kızartma + Yoğurt (200g)\nKremalı Tavuk Çorba (250g) / Domates Çorba (250g)\nBahar Pilavı (150g)\nCevizli Kadayıf (100g)",
+"12-22": "Pazartesi\n\nTavuk Izgara + Şakşuka (200g) / Taze Fasulye (200g)\nMısır Çorba (250g) / Tel Şehriye Çorba (250g)\nYoğurtlu Makarna (200g)\nEge Salata (150g)",
+"12-23": "Salı\n\nBuğu Kebap (250g) / Patates Yemeği (200g)\nEzogelin Çorba (250g) / Cennet Çorba (250g)\nDomatesli Bulgur Pilavı (200g)\nMuz (150-200g)",
+"12-24": "Çarşamba\n\nTavuk Külbastı + Köz Biber/Domates (200g) / Kabak Mücver + Yoğurt (200g)\nKremalı Mantar Çorba (250g) / Mercimek Çorba (250g)\nPirinç Pilavı (150g)\nBisküvili Pasta (120g)",
+"12-25": "Perşembe\n\nİzmir Köfte (250g) / Ispanak Graten (200g)\nYayla Çorba (250g) / Domates Çorba (250g)\nŞehriyeli Bulgur Pilavı (200g)\nPembe Sultan (100g)",
+"12-26": "Cuma\n\nKremalı Mantarlı Tavuk (250g) / Patlıcan/Kabak/Biber Dolma + Yoğurt (200g)\nŞehriye Çorba (250g) / Düğün Çorba (250g)\nGarnitürlü Makarna (200g)\nAkdeniz Salata (100g)",
+"12-27": "Cumartesi\n\nNohut Yemeği (200g) / Karışık Sebze Kızartma + Yoğurt (200g)\nEzogelin Çorba (250g) / Tavuk Çorba (250g)\nŞehriyeli Pirinç Pilavı (150g)\nKalburabastı (100g)",
+"12-28": "Pazar\n\nTire Köfte (200g) / Havuçlu Bezelye Yemeği (200g)\nMercimek Çorba (250g) / Anadolu Çorba (250g)\nDomatesli Bulgur Pilavı (200g)\nMarul Salata (50g)",
+"12-29": "Pazartesi\n\nTavuk Çökertme (250g) / Lahana Sarma (200g)\nDört Kaşık Çorba (250g) / Tarhana Çorba (250g)\nSpagetti Napoliten (200g)\n(Tatlı/Salata kısmı görselde kesik)",
+"12-30": "Salı\n\nEt Sote (250g) / Pırasa Yemeği (200g)\nSebze Çorba (250g) / Mercimek Çorba (250g)\nŞehriyeli Pirinç Pilavı (150g)\n(Tatlı/Salata kısmı görselde kesik)",
 }
+
 
 
 
