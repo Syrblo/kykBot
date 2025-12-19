@@ -5,7 +5,7 @@ on:
     # UTC saatiyle çalışır. Türkiye (UTC+3) için hesabı yapmalısın.
     # Örnek: Türkiye saatiyle 09:00 olması için buraya 06:00 yazmalıyız.
     # Dakika Saat * * *
-    - cron: '34 11 * * *' 
+    - cron: '4 12 * * *' 
   workflow_dispatch: # Manuel tetikleme için (Test etmek istersen)
 
 jobs:
