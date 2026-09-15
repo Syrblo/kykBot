@@ -1,31 +1,19 @@
 {
-
-  "09-14": "Pazartesi\nPatates Kızartması\nHaşlanmış Yumurta\nBeyaz Peynir\nSiyah/Yeşil Zeytin\nDomates+Salatalık+Havuç+Yeşillik\n500 ml Su",
-"09-15": "Salı\nPeynirli Omlet\nSimit\nKaşar Peyniri\nSiyah/Yeşil Zeytin\nSürülebilir Çikolata\n500 ml Su\nÇeyrek Ekmek",
-"09-16": "Çarşamba\nKarışık Pizza\nHaşlanmış Yumurta\nKrem Peynir\nSiyah/Yeşil Zeytin\nDomates+Salatalık+Havuç+Yeşillik\n500 ml Su\nÇeyrek Ekmek",
-"09-17": "Perşembe\nPatatesli Yumurta\nZeytinli/Peynirli Açma\nBeyaz Peynir\nSiyah/Yeşil Zeytin\nReçel Çeşitleri\n500 ml Su\nÇeyrek Ekmek",
-"09-18": "Cuma\nSucuklu Yumurta\nSade Poğaça\nKaşar Peyniri\nSiyah/Yeşil Zeytin\nBal+Tereyağ\n500 ml Su\nÇeyrek Ekmek",
-"09-19": "Cumartesi\nÇikolatalı Milföy Börek\nHaşlanmış Yumurta\nÖrgü Peynir\nSiyah/Yeşil Zeytin\nDomates+Salatalık+Havuç+Yeşillik\n500 ml Su\nÇeyrek Ekmek",
-"09-20": "Pazar\nPatates Kızartması\nHaşlanmış Yumurta\nLabne Peynir\nSiyah/Yeşil Zeytin\nTahinli Pekmez\n500 ml Su\nÇeyrek Ekmek",
-"09-21": "Pazartesi\nMenemen\nDere Otlu Poğaça\nLabne Peynir\nSiyah/Yeşil Zeytin\nReçel Çeşitleri\n500 ml Su\nÇeyrek Ekmek",
-"09-22": "Salı\nSosis Kokteyl (Salçalı veya Kızartma)\nHaşlanmış Yumurta\nBeyaz Peynir\nSiyah/Yeşil Zeytin\nDomates+Salatalık+Havuç+Yeşillik\n500 ml Su\nÇeyrek Ekmek",
-"09-23": "Çarşamba\nKaşarlı Omlet\nMozaik Kek\nÇeçil Peyniri\nSiyah/Yeşil Zeytin\nTahinli Pekmez\n500 ml Su\nÇeyrek Ekmek",
-"09-24": "Perşembe\nKarışık Kızartma\nHaşlanmış Yumurta\nBeyaz Peynir\nSiyah/Yeşil Zeytin\nDomates+Salatalık+Havuç+Yeşillik\n500 ml Su\nÇeyrek Ekmek",
-"09-25": "Cuma\nSade Omlet\nSimit\nKaşar Peyniri\nSiyah/Yeşil Zeytin\nSürülebilir Çikolata\n500 ml Su\nÇeyrek Ekmek",
-"09-26": "Cumartesi\nPatates Kızartması\nHaşlanmış Yumurta\nBeyaz Peynir\nSiyah/Yeşil Zeytin\nDomates+Salatalık+Havuç+Yeşillik\n500 ml Su\nÇeyrek Ekmek",
-"09-27": "Pazar\nPeynirli Omlet\nZeytinli/Peynirli Açma\nKaşar Peyniri\nSiyah/Yeşil Zeytin\nReçel Çeşitleri\n500 ml Su\nÇeyrek Ekmek",
-"09-28": "Pazartesi\nPeynirli Omlet\nHaşlanmış Yumurta\nBeyaz Peynir\nSiyah/Yeşil Zeytin\nDomates+Salatalık+Havuç+Yeşillik\n500 ml Su\nÇeyrek Ekmek",
-"09-29": "Salı\nSucuklu Yumurta\nSade Açma\nÖrgü Peynir\nSiyah/Yeşil Zeytin\nReçel Çeşitleri\n500 ml Su\nÇeyrek Ekmek",
-"09-30": "Çarşamba\nSosisli Patates Kızartması\nHaşlanmış Yumurta\nBeyaz Peynir\nSiyah/Yeşil Zeytin\nBal+Tereyağ\n500 ml Su\nÇeyrek Ekmek"
+  "09-14": "Pazartesi\nEzogelin Çorba / Düğün Çorba\nTavuk Sote / Kabak Mücver\nSalçalı Makarna\nYoğurt\n500 ml Su\nÇeyrek Ekmek",
+  "09-15": "Salı\nTarhana Çorba / Mercimek Çorbası\nÇökertme Kebabı / Tavuk Baget / Barbunya Yemeği\nŞehriyeli Pirinç Pilavı\nPembe Sultan\n500 ml Su\nÇeyrek Ekmek",
+  "09-16": "Çarşamba\nŞehriye Çorbası / Tavuk Çorba\nTas Kebabı / Çıtır Tavuk / Taze Fasulye Yemeği\nDomatesli Bulgur Pilavı\nKarışık Salata\n500 ml Su\nÇeyrek Ekmek",
+  "09-17": "Perşembe\nEzogelin Çorba / Kremalı Mantar Çorba\nTavuk Fajita / Etsiz Mevsim Türlü\nYoğurtlu Makarna\nSupangle\n500 ml Su\nÇeyrek Ekmek",
+  "09-18": "Cuma\nYüksük Çorbası / Mercimek Çorbası\nİzmir Köfte / Sebzeli Tavuk Haşlama (Kemiksiz) / İmam Bayıldı\nGarnitürlü Pirinç Pilavı\nÇoban Salata\nHaydari\n500 ml Su\nÇeyrek Ekmek",
+  "09-19": "Cumartesi\nDomates Çorba / Yayla Çorbası\nTavuk Şinitzel / Fırında Sebze Sote\nSpagetti Napoliten\nRus Salatası\n500 ml Su\nÇeyrek Ekmek",
+  "09-20": "Pazar\nArabaşı Çorba / Çeşmi Nigar Çorba\nKuru Fasulye / Sebzeli Mantar Sote\nŞehriyeli Pirinç Pilavı\nCevizli Kadayıf\n500 ml Su\nÇeyrek Ekmek",
+  "09-21": "Pazartesi\nEzogelin Çorba / Mısır Çorba\nEt Tantuni (Lavaşlı) + Soğan Salata / Tavuk Izgara / Bezelye Yemeği\nŞehriyeli Bulgur Pilavı\nAyran\n500 ml Su\nÇeyrek Ekmek",
+  "09-22": "Salı\nPirinç Çorba / Mercimek Çorbası\nKremalı Mantarlı Tavuk / Karışık Dolma+Yoğurt\nFesleğenli Makarna\nBisküvili Pasta\n500 ml Su\nÇeyrek Ekmek",
+  "09-23": "Çarşamba\nNohutlu Tarhana Çorba / Tavuk Çorba\nŞehzade Kebabı / Piliç Roti / Ispanaklı Patates Graten\nŞehriyeli Pirinç Pilavı\nÇoban Salata\n500 ml Su\nÇeyrek Ekmek",
+  "09-24": "Perşembe\nŞehriye Çorbası / Kremalı Mantar Çorba\nTavuk Şiş / Taze Fasulye Yemeği\nMeyhane Pilavı\nAcılı Ezme\n500 ml Su\nÇeyrek Ekmek",
+  "09-25": "Cuma\nEzogelin Çorba / Düğün Çorba\nNohut Yemeği / Karışık Kızartma+Yoğurt\nPirinç Pilavı\nŞekerpare\nTurşu\n500 ml Su\nÇeyrek Ekmek",
+  "09-26": "Cumartesi\nKöylü Çorba / Mercimek Çorbası\nTavuk Kalamar / Biber Dolma+Yoğurt\nSalçalı Makarna\nKarpuz\n500 ml Su\nÇeyrek Ekmek",
+  "09-27": "Pazar\nDomates Çorba / Yayla Çorbası\nPatlıcan Musakka / Tavuk Fajita / Sebzeli Kabak Sandal\nBulgur Pilavı\nCacık\n500 ml Su\nÇeyrek Ekmek",
+  "09-28": "Pazartesi\nTarhana Çorba / Sebze Çorbası\nTavuk Külbastı / Yeşil Mercimek Yemeği\nNohutlu Pirinç Pilavı\nRus Salatası\n500 ml Su\nÇeyrek Ekmek",
+  "09-29": "Salı\nŞehriye Çorbası / Mercimek Çorbası\nBalaban Kebabı (Tereyağ Sosu İle) / Köri Soslu Tavuk / Çıtır Kabak Kızartması\nSpagetti Napoliten\nAyran\n500 ml Su\nÇeyrek Ekmek",
+  "09-30": "Çarşamba\nEzogelin Çorba / Toyga Çorba\nTavuk Çökertme / Patates Köftesi+Yoğurt\nŞehriyeli Bulgur Pilavı\nKakaolu/Muzlu Puding\n500 ml Su\nÇeyrek Ekmek"
 }
-
-
-
-
-
-
-
-
-
-
-
